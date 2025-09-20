@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My DevOps Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello from Abdul Muqeet 🚀</h1>
+  <p>This is my first multi-file project on GitHub.</p>
+  <button onclick="greet()">Click Me</button>
+  <script src="script.js"></script>
+</body>
+</html>
+<<h1>hello devops</h1>
